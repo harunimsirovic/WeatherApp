@@ -1,0 +1,20 @@
+c:\users\valto\documents\visual studio 2013\Projects\VrijemeHarun\VrijemeHarun\bin\Debug\VrijemeHarun.exe.config
+c:\users\valto\documents\visual studio 2013\Projects\VrijemeHarun\VrijemeHarun\bin\Debug\VrijemeHarun.exe
+c:\users\valto\documents\visual studio 2013\Projects\VrijemeHarun\VrijemeHarun\bin\Debug\VrijemeHarun.pdb
+c:\users\valto\documents\visual studio 2013\Projects\VrijemeHarun\VrijemeHarun\obj\Debug\VrijemeHarun.csprojResolveAssemblyReference.cache
+c:\users\valto\documents\visual studio 2013\Projects\VrijemeHarun\VrijemeHarun\obj\Debug\VrijemeHarun.Form1.resources
+c:\users\valto\documents\visual studio 2013\Projects\VrijemeHarun\VrijemeHarun\obj\Debug\VrijemeHarun.Properties.Resources.resources
+c:\users\valto\documents\visual studio 2013\Projects\VrijemeHarun\VrijemeHarun\obj\Debug\VrijemeHarun.csproj.GenerateResource.Cache
+c:\users\valto\documents\visual studio 2013\Projects\VrijemeHarun\VrijemeHarun\obj\Debug\VrijemeHarun.exe
+c:\users\valto\documents\visual studio 2013\Projects\VrijemeHarun\VrijemeHarun\obj\Debug\VrijemeHarun.pdb
+c:\users\valto\documents\visual studio 2013\Projects\VrijemeHarun\VrijemeHarun\bin\Debug\ikonice.png
+C:\Users\12\Desktop\C# Weather\VrijemeHarun\VrijemeHarun\bin\Debug\VrijemeHarun.exe.config
+C:\Users\12\Desktop\C# Weather\VrijemeHarun\VrijemeHarun\obj\Debug\VrijemeHarun.exe
+C:\Users\12\Desktop\C# Weather\VrijemeHarun\VrijemeHarun\obj\Debug\VrijemeHarun.pdb
+C:\Users\12\Desktop\C# Weather\VrijemeHarun\VrijemeHarun\obj\Debug\VrijemeHarun.csprojResolveAssemblyReference.cache
+C:\Users\12\Desktop\C# Weather\VrijemeHarun\VrijemeHarun\obj\Debug\VrijemeHarun.Properties.Resources.resources
+C:\Users\12\Desktop\C# Weather\VrijemeHarun\VrijemeHarun\obj\Debug\VrijemeHarun.csproj.GenerateResource.Cache
+C:\Users\12\Desktop\C# Weather\VrijemeHarun\VrijemeHarun\bin\Debug\ikonice.png
+C:\Users\12\Desktop\C# Weather\VrijemeHarun\VrijemeHarun\bin\Debug\VrijemeHarun.exe
+C:\Users\12\Desktop\C# Weather\VrijemeHarun\VrijemeHarun\bin\Debug\VrijemeHarun.pdb
+C:\Users\12\Desktop\C# Weather\VrijemeHarun\VrijemeHarun\obj\Debug\VrijemeHarun.frmWeather.resources

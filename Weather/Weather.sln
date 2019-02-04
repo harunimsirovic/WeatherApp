@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather", "Weather.csproj", "{BD5A9A63-DC4B-4C3E-8C2B-E268A98992E6}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup1", "..\..\Vremenska PrognozaSetup\Setup1\Setup1.isproj", "{6555FC5C-92C4-4C9E-A36F-FF0F2E45FF59}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BD5A9A63-DC4B-4C3E-8C2B-E268A98992E6} = {BD5A9A63-DC4B-4C3E-8C2B-E268A98992E6}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD5A9A63-DC4B-4C3E-8C2B-E268A98992E6}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5A9A63-DC4B-4C3E-8C2B-E268A98992E6}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{BD5A9A63-DC4B-4C3E-8C2B-E268A98992E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5A9A63-DC4B-4C3E-8C2B-E268A98992E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5A9A63-DC4B-4C3E-8C2B-E268A98992E6}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5A9A63-DC4B-4C3E-8C2B-E268A98992E6}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{BD5A9A63-DC4B-4C3E-8C2B-E268A98992E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5A9A63-DC4B-4C3E-8C2B-E268A98992E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5A9A63-DC4B-4C3E-8C2B-E268A98992E6}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5A9A63-DC4B-4C3E-8C2B-E268A98992E6}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{6555FC5C-92C4-4C9E-A36F-FF0F2E45FF59}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{6555FC5C-92C4-4C9E-A36F-FF0F2E45FF59}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{6555FC5C-92C4-4C9E-A36F-FF0F2E45FF59}.Debug|Any CPU.ActiveCfg = DVD-5
+		{6555FC5C-92C4-4C9E-A36F-FF0F2E45FF59}.Debug|Any CPU.Build.0 = DVD-5
+		{6555FC5C-92C4-4C9E-A36F-FF0F2E45FF59}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{6555FC5C-92C4-4C9E-A36F-FF0F2E45FF59}.DVD-5|Any CPU.Build.0 = DVD-5
+		{6555FC5C-92C4-4C9E-A36F-FF0F2E45FF59}.Release|Any CPU.ActiveCfg = SingleImage
+		{6555FC5C-92C4-4C9E-A36F-FF0F2E45FF59}.Release|Any CPU.Build.0 = SingleImage
+		{6555FC5C-92C4-4C9E-A36F-FF0F2E45FF59}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{6555FC5C-92C4-4C9E-A36F-FF0F2E45FF59}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
